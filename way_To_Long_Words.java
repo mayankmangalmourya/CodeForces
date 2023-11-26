@@ -17,27 +17,27 @@ public class way_To_Long_Words {
 
     static Scanner in;
     public static void solve(){
-        int t = in.nextInt();
-        while (t-- != 0) {
-            String str = in.next();
-            int len = str.length();
-            if(len <= 10){
-                System.out.println(str);
-            }else{
-                char first_char = str.charAt(0);
-                char last_char = str.charAt(len - 1);
-                StringBuilder result = new StringBuilder();
-                result.append(first_char);
-                result.append(len-2);
-                result.append(last_char);
-                System.out.println(result.toString());
-            }
+        String str = in.next();
+        int len = str.length();
+        if(len <= 10){
+            System.out.println(str);
+        }else{
+            char first_char = str.charAt(0);
+            char last_char = str.charAt(len - 1);
+            StringBuilder result = new StringBuilder();
+            result.append(first_char);
+            result.append(len-2);
+            result.append(last_char);
+            System.out.println(result.toString());
         }
-
     }
     public static void main(String[] args) {
         in = new Scanner(System.in);
-        solve();
+        int t = in.nextInt();
+        while (t != 0) {
+            solve();
+            t--;
+        }
         in.close();
     }
 }
