@@ -7,6 +7,22 @@ import java.util.List;
 import java.util.Map;
 
 public class group_Anagram_Using_Sorting {
+
+    public String sort_String_Freq_Array(String str) {
+        int[] freq = new int[26];
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < str.length(); i++) {
+            freq[str.charAt(i) - 'a']++;
+        }
+        for (int i = 0; i < 26; i++) {
+            int cur_freq = freq[i];
+            while (cur_freq-- != 0) {
+                result.append(i + 'a');
+            }
+        }
+        return result.toString();
+    }
+
     static public String sort_String(String str){
         char[] char_arr = str.toCharArray();
         Arrays.sort(char_arr);
