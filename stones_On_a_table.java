@@ -27,7 +27,7 @@ public class stones_On_a_table {
         int N = in.nextInt();
         String str = in.next();
         int count = 0;
-        for(int i = 0, j = 1; j < str.length(); i++, j++) {
+        for(int i = 0, j = 1; j < N; i++, j++) {
             if(str.charAt(i) == str.charAt(j)) {
                 count++;
             }
