@@ -1,147 +1,154 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Original_Array_From_Double_Array",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.Original_Array_From_Double_Array",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "container_With_most_Water",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.container_With_most_Water",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "daigonal_Sort",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.daigonal_Sort",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "diagonal_Traverse",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.diagonal_Traverse",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "factorial_Of_Large_Number",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.factorial_Of_Large_Number",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "group_Anagram_Using_Sorting",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.group_Anagram_Using_Sorting",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "next_Permutation",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.next_Permutation",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "rotate_Image",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.rotate_Image",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "sort_Colors",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.sort_Colors",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "spiral_Matrix",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.spiral_Matrix",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "three_sum",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.three_sum",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "three_sum_closest",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.three_sum_closest",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "trapping_rain_water_problem",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.trapping_rain_water_problem",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "two_Sum",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.two_Sum",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "two_sum_2",
-            "request": "launch",
-            "mainClass": "LeetCode.Arrays.two_sum_2",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "next_Round",
-            "request": "launch",
-            "mainClass": "next_Round",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "team",
-            "request": "launch",
-            "mainClass": "team",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "waterMelon",
-            "request": "launch",
-            "mainClass": "waterMelon",
-            "projectName": "CodeForces_7cac1717"
-        },
-        {
-            "type": "java",
-            "name": "way_To_Long_Words",
-            "request": "launch",
-            "mainClass": "way_To_Long_Words",
-            "projectName": "CodeForces_7cac1717"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bit_Plus_Plus",
+      "request": "launch",
+      "mainClass": "bit_Plus_Plus",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Original_Array_From_Double_Array",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.Original_Array_From_Double_Array",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "container_With_most_Water",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.container_With_most_Water",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "daigonal_Sort",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.daigonal_Sort",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "diagonal_Traverse",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.diagonal_Traverse",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "factorial_Of_Large_Number",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.factorial_Of_Large_Number",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "group_Anagram_Using_Sorting",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.group_Anagram_Using_Sorting",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "next_Permutation",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.next_Permutation",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "rotate_Image",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.rotate_Image",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "sort_Colors",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.sort_Colors",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "spiral_Matrix",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.spiral_Matrix",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "three_sum",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.three_sum",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "three_sum_closest",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.three_sum_closest",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "trapping_rain_water_problem",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.trapping_rain_water_problem",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "two_Sum",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.two_Sum",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "two_sum_2",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.two_sum_2",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "next_Round",
+      "request": "launch",
+      "mainClass": "next_Round",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "team",
+      "request": "launch",
+      "mainClass": "team",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "waterMelon",
+      "request": "launch",
+      "mainClass": "waterMelon",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "way_To_Long_Words",
+      "request": "launch",
+      "mainClass": "way_To_Long_Words",
+      "projectName": "CodeForces_7cac1717"
+    }
+  ]
 }
