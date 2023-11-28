@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "domino_Piling",
+      "request": "launch",
+      "mainClass": "domino_Piling",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "bit_Plus_Plus",
       "request": "launch",
       "mainClass": "bit_Plus_Plus",
