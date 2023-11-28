@@ -30,9 +30,13 @@ public class next_Round {
         int n = in.nextInt();
         int score = in.nextInt();
         int result = 0;
+        int[] arr = new int[n];
         for(int i = 0; i < n; i++){
-            int temp = in.nextInt();
-            if(temp > score){
+            arr[i] = in.nextInt();
+        }
+        int val = arr[score-1];
+        for(int i = 0; i < n; i++){
+            if(arr[i] >= val && arr[i] > 0){
                 result++;
             }
         }
