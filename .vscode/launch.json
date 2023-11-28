@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "petya_And_String",
+      "request": "launch",
+      "mainClass": "petya_And_String",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "beautiful_matrix",
       "request": "launch",
       "mainClass": "beautiful_matrix",
