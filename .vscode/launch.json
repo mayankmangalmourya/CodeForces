@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stones_On_a_table",
+      "request": "launch",
+      "mainClass": "stones_On_a_table",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "word_Capitalization",
+      "request": "launch",
+      "mainClass": "word_Capitalization",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "helpful_Maths",
       "request": "launch",
       "mainClass": "helpful_Maths",
