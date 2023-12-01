@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Anton_And_Danik",
+      "request": "launch",
+      "mainClass": "Anton_And_Danik",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "fibo",
       "request": "launch",
       "mainClass": "fibo",
