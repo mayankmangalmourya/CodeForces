@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "translation",
+      "request": "launch",
+      "mainClass": "translation",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "Anton_And_Danik",
       "request": "launch",
       "mainClass": "Anton_And_Danik",
