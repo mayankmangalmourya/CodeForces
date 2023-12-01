@@ -2,9 +2,8 @@ import java.util.Scanner;
 
 public class hit_the_lottery {
 
-    public static void solve(int n) {
+    public static void solve(int n, int idx) {
         int result = 0;
-        int idx = 4;
         while (n > 0) {
             if (n >= 100) {
                 n -= 100;
@@ -44,7 +43,8 @@ public class hit_the_lottery {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        solve(n);
+        int idx = 4;
+        solve(n, idx);
         in.close();
     }
 }
