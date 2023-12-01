@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "fibo",
+      "request": "launch",
+      "mainClass": "fibo",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "hit_the_lottery",
+      "request": "launch",
+      "mainClass": "hit_the_lottery",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "longest_Consecutive_Repetition",
+      "request": "launch",
+      "mainClass": "longest_Consecutive_Repetition",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "stones_On_a_table",
       "request": "launch",
       "mainClass": "stones_On_a_table",
