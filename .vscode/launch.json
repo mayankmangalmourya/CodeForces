@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sum_Even_After_Queries",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.sum_Even_After_Queries",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "beautifulString",
       "request": "launch",
       "mainClass": "Codechef.starter111.beautifulString",
