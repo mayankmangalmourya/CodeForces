@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "beautifulString",
+      "request": "launch",
+      "mainClass": "Codechef.starter111.beautifulString",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
+      "name": "exam",
+      "request": "launch",
+      "mainClass": "Codechef.starter111.exam",
+      "projectName": "CodeForces_7cac1717"
+    },
+    {
+      "type": "java",
       "name": "tram",
       "request": "launch",
       "mainClass": "tram",
